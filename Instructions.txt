@@ -1,0 +1,17 @@
+ReactJs create SPA application
+SPA Single Page Application
+
+public/index.html
+	<div id="root">
+		Your elements loads here
+	</div>
+
+npm start -> react-script start 
+		-> src/index.js
+			-> Which file to render/View/Show i.e index.html
+			-> Where to load inside index.html
+
+		public/index.html
+			<div id="root">
+				You elements loads here...
+			</div>
